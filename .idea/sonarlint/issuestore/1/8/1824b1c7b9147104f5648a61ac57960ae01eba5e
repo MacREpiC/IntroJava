@@ -1,0 +1,18 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘8É·¥é³1
+B
+java:S1659"%Declare "moneda2" on a separate line.(è§ÐÇ8Ë·¥é³1
+m
+java:S1659"KDeclare "contadorCruces" and all following declarations on a separate line.(žÞÞ­þÿÿÿÿ8Ë·¥é³1
+`
+java:S1659	">Declare "contadorCrucesDoblesConsecutivas" on a separate line.(ÅæÇãþÿÿÿÿ8Ë·¥é³1
+Y
+java:S1659
+"<Declare "maximoCrucesDoblesConsecutivas" on a separate line.(ÐŠµ¶8Ë·¥é³1
+K
+java:S1659")Declare "esCaraDoble" on a separate line.(Ç³ëûÿÿÿÿ8Ë·¥é³1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(Û‡¤Àúÿÿÿÿ8Î·¥é³1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(‡§Õ´üÿÿÿÿ8Î·¥é³1
